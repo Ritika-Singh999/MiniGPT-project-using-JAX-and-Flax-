@@ -1,7 +1,0 @@
-jax
-flax
-optax
-transformers
-datasets
-numpy 
-Run this to generate: pip freeze > requirements.txt
